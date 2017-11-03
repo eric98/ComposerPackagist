@@ -5,7 +5,7 @@
         "fzaninotto/faker": "^1.7"
     },
     "autoload": {
-        "files": "src/Hello.php"
+        "files": ["src/Hello.php"]
     },
     "authors": [
         {
